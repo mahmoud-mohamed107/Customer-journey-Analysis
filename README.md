@@ -16,7 +16,9 @@ Focus on analyzing user journeys to understand behavioral differences between mo
 - we preprocessing the data by removing duplicate pages , group user sessions , remove unnecessary pages that is not relates to conversion path
 
   # Executive summary
+  
   **Overview of the findings**
+  
   The user journey analysis revealed key behavioral differences between monthly and annual subscribers, providing insights to refine marketing and engagement strategies. Annual users show **stronger purchase intent**, visiting **the Pricing page earlier and more frequently**, making it a critical touchpoint for conversion optimization. In contrast, **monthly users engage more with Career Tracks**, indicating a preference for structured, short-term learning paths that could be leveraged for upsell opportunities. Additionally, **the Resource Center appears slightly more in annual users'** journeys, but rather than influencing purchase decisions, it seems to be a post-subscription engagement tool. Annual users tend to spend more time there, highlighting its potential role in **customer retention and long-term value enhancement**. These insights suggest opportunities to improve the **Pricing page** for better conversions, use Career Tracks as a driver for subscription upgrades, and enhance the Resource Center’s content strategy to reinforce long-term engagement.
 
 
